@@ -1,6 +1,8 @@
 ### 使い方
 
 ```
+git clone https://github.com/ozaki25/cypress_sample.git
+cd cypress_sample
 npm i
 npm run cypress:open
 ```
